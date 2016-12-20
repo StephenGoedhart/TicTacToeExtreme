@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{655617F1-B990-B2B6-E9C6-4BF559B43B57}") = "TicTacToeExtreme", "Assembly-CSharp-firstpass.csproj", "{01350EA2-D9C4-7393-0366-A9E45C168379}"
+EndProject
+Project("{655617F1-B990-B2B6-E9C6-4BF559B43B57}") = "TicTacToeExtreme", "Assembly-CSharp.csproj", "{C73CB105-ECAB-EB8A-5229-815BEA39DFC6}"
+EndProject
+Project("{655617F1-B990-B2B6-E9C6-4BF559B43B57}") = "TicTacToeExtreme", "Assembly-CSharp-Editor.csproj", "{C5F4A921-6350-FCED-B540-739BCB2607A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01350EA2-D9C4-7393-0366-A9E45C168379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01350EA2-D9C4-7393-0366-A9E45C168379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01350EA2-D9C4-7393-0366-A9E45C168379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01350EA2-D9C4-7393-0366-A9E45C168379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73CB105-ECAB-EB8A-5229-815BEA39DFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73CB105-ECAB-EB8A-5229-815BEA39DFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73CB105-ECAB-EB8A-5229-815BEA39DFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73CB105-ECAB-EB8A-5229-815BEA39DFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F4A921-6350-FCED-B540-739BCB2607A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F4A921-6350-FCED-B540-739BCB2607A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F4A921-6350-FCED-B540-739BCB2607A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F4A921-6350-FCED-B540-739BCB2607A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
